@@ -1,0 +1,15 @@
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.csproj.AssemblyReference.cache
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.AssemblyInfoInputs.cache
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.AssemblyInfo.cs
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.csproj.CoreCompileInputs.cache
+C:\Dev\Lulu\bin\Debug\net6.0\Lulu.exe
+C:\Dev\Lulu\bin\Debug\net6.0\Lulu.deps.json
+C:\Dev\Lulu\bin\Debug\net6.0\Lulu.runtimeconfig.json
+C:\Dev\Lulu\bin\Debug\net6.0\Lulu.dll
+C:\Dev\Lulu\bin\Debug\net6.0\ref\Lulu.dll
+C:\Dev\Lulu\bin\Debug\net6.0\Lulu.pdb
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.dll
+C:\Dev\Lulu\obj\Debug\net6.0\ref\Lulu.dll
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.pdb
+C:\Dev\Lulu\obj\Debug\net6.0\Lulu.genruntimeconfig.cache
